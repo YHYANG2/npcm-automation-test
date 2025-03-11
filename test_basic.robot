@@ -440,7 +440,7 @@ Cerberus Stress Test
 
 UPDATE BIC Test
 	[Documentation]  Test Update BIC over PLDM over MCTP over I3C.
-	[Tags]  Stress Test  Onboard  HWsetup  I3C  Arbel
+	[Tags]  Stress Test  Onboard  HWsetup  I3C  Arbel  BIC
 
 	# update BIC voer mctp over I3C
 	Pass Test If Not Support  arbel-evb
